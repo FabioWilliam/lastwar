@@ -1,5 +1,7 @@
 # Base Nivel 34
 
+## Aba buff economia 
+
 ### **Produção de Recursos**
 
 **Aumentar Produção de Comida** → **+110.10%**
