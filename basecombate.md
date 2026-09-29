@@ -1,7 +1,9 @@
-
 # Base Nivel 34
 
 ## buffs da aba **Combate**:
+
+Atualizado em conjunto com a Galeria de Decoração em **28/09/2026**.
+O campo **Bônus de Construção** é o total da galeria.
 
 ---
 
@@ -135,7 +137,7 @@
 
 **Aumentar Dano Crítico** → **7.80%**
 - Drone: 3.30%
-- Bônus de Construção: 4.50%
+- Bônus de Construção: 4.50% (Galeria de Decoração)
 
 **Reduzir Chances de Sofrer Acertos Críticos** → **2.00%**
 - Drone: 2.00%
@@ -164,7 +166,7 @@
 ### **Monstros**
 
 **Aumentar Dano contra Monstros** → **+46.75%**
-- Bônus de Construção: +1.75%
+- Bônus de Construção: +1.75% (Galeria de Decoração)
 - Cosméticos: +0.00%
 - Temporada: +45.00%
 
@@ -244,3 +246,12 @@
 
 **Reduz a taxa de ferimentos graves das unidades em batalhas PvP** → **-0.00%**
 - Especialização Profissional: -0.00%
+
+---
+
+### **Stats flat da Galeria (não aparecem como % nesta aba)**
+
+- ATK de Herói e Soberano: +11.892
+- DEF de Herói e Soberano: +1.307
+- HP de Herói e Soberano: +318.971
+- Capacidade de Tropas: +4

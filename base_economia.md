@@ -1,6 +1,9 @@
 # Base Nivel 34
 
-## Aba buff economia 
+## Aba buff economia
+
+Atualizado em conjunto com a Galeria de Decoração em **28/09/2026**.
+O campo **Bônus de Construção** é o total da galeria.
 
 ### **Produção de Recursos**
 
@@ -36,6 +39,7 @@
 - Temporada: +0.00%
 - Zona de Guerra: +0.00%
 - Tecnologia da Facção: +0.00%
+- Galeria de Decoração (referência): +2.00% — o jogo não lista essa linha à parte nesta aba; o +2% aparece na galeria
 
 **Aumento na Produção de Petróleo** → **+30.00%**
 - Bônus de Tecnologia: +30.00%
@@ -47,7 +51,7 @@
 **Aumentar velocidade de construção** → **+147.50%**
 - Bônus de Tecnologia: +37.50%
 - VIP: +50.00%
-- Bônus de Construção: +10.00%
+- Bônus de Construção: +10.00% (Galeria de Decoração)
 - Tecnologia da Aliança: +25.00%
 - Cidade: +0.00%
 - Especialização Profissional: +25.00%
